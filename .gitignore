@@ -23,3 +23,6 @@ run
 
 # Files from Forge MDK
 forge*changelog.txt
+
+src/main/resources/assets/hexxit_misc/textures2
+src/main/resources/assets/hexxit_misc/textures3
